@@ -1,0 +1,8 @@
+/**/.mvn/wrapper
+/**/.settings
+/**/.gradle
+/**/gradle
+/**/target
+/**/build
+/**/bin
+/**/.metadata
